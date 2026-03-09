@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="1ba78fb71ed4acf87d97952c43e861203a24f30a" resname="ibexa.site_factory.validator.hostname_with_optional_port.invalid">
         <source>Invalid hostname and/or port</source>
-        <target state="new">Invalid hostname and/or port</target>
+        <target state="Translated">اسم المضيف و/أو رقم المنفذ غير صالح</target>
         <note>key: ibexa.site_factory.validator.hostname_with_optional_port.invalid</note>
       </trans-unit>
       <trans-unit id="8a1c78d384d4019f9ab14d02905a7a294057bdb0" resname="ibexa.site_factory.validator.port.invalid">
         <source>Invalid port</source>
-        <target state="new">Invalid port</target>
+        <target state="Translated">منفذ غير صالح</target>
         <note>key: ibexa.site_factory.validator.port.invalid</note>
       </trans-unit>
     </body>
