@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="b6c92ee4799eb55f6bd347344b7ab326f6483e1f" resname="Value for required field definition '%identifier%' with language '%languageCode%' is empty">
         <source>Value for required field definition '%identifier%' with language '%languageCode%' is empty</source>
-        <target state="new">Value for required field definition '%identifier%' with language '%languageCode%' is empty</target>
+        <target state="Translated">لم يتم إدخال قيمة للحقل الإلزامي '%identifier%' باللغة '%languageCode%'.</target>
         <note>key: Value for required field definition '%identifier%' with language '%languageCode%' is empty</note>
       </trans-unit>
     </body>
