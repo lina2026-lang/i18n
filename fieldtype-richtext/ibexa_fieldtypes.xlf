@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="213da4efa5baa8b47c34dc4b645df7115d07d66e" resname="ibexa_richtext.name">
         <source>Rich text</source>
-        <target state="new">Rich text</target>
+        <target state="Translated">نص منسّق</target>
         <note>key: ibexa_richtext.name</note>
       </trans-unit>
     </body>
